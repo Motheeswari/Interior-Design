@@ -1,2 +1,2 @@
 # Interior-Design
-project with using HTML and CSS.
+project done by using HTML and CSS.
